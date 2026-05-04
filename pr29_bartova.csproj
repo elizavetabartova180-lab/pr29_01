@@ -21,10 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\Users\Elements\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Resource Include="Images\icons.png" />
     <Resource Include="Images\ic_man.png" />
   </ItemGroup>
