@@ -14,12 +14,7 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,20">
-            <Button Content="Клубы" Background="#FF46FD00" Foreground="White" BorderThickness="0" 
-                    Padding="15,5" Margin="0,0,10,0" Cursor="Hand"/>
-            <Button Content="Пользователи" Background="#FF46FD00" Foreground="White" BorderThickness="0" 
-                    Padding="15,5" Cursor="Hand"/>
-        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,20"/>
 
         <Grid Grid.Row="1" Background="#FFF0F0F0">
             <ScrollViewer Margin="0,0,0,50">
